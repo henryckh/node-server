@@ -1,0 +1,1 @@
+For scheduled task, scraping, email or push notification
